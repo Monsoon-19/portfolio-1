@@ -2,7 +2,7 @@
 
 A modern, animated personal portfolio built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
 
-### 🔗 **[View Live →](https://upendra-portfolio.vercel.app)**
+### 🔗 **[View Locally →](http://localhost:3000)** · *Deployment coming soon*
 
 ---
 
